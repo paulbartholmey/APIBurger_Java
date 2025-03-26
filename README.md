@@ -24,7 +24,7 @@ API CRUD (Create, Read, Update, Delete) permettant de gérer une entité Burger.
 
 ## Utilisation :
     Créer une base de données, par exemple avec MySQL Workbench, nommée burger.
-    Mettre à jour les username et password dans le fichier src/main/java/com/paulb/apiBurger/ressources/application.properties
+    Mettre à jour les username, password et url dans le fichier src/main/java/com/paulb/apiBurger/ressources/application.properties
     Lancer src/main/java/com/paulb/apiBurger/ApiBurgerApplication.java
     L'URL est http://localhost:8080/burgers
     Vous pouvez par exemple utiliser Postman (https://www.postman.com/) pour créer/lire/modifier/supprimer des burgers. 
